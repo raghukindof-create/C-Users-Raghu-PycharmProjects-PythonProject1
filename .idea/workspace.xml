@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61af6383-2862-4f04-81e2-86f80242f0dd" name="Changes" comment="" />
+    <list default="true" id="61af6383-2862-4f04-81e2-86f80242f0dd" name="Changes" comment="add git">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/playwright.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/playwright.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;raghukindof-create&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/raghukindof-create/C-Users-Raghu-PycharmProjects-PythonProject1.git&quot;,
+    &quot;accountId&quot;: &quot;4f184174-b72d-44f0-bb2d-afa53e088720&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -32,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.pytest for test_open_web_page.test_playwright_locators.test_pageurl.executor": "Run",
-    "Python tests.pytest for test_open_web_page.test_playwright_locators.test_role.executor": "Run",
-    "Python tests.pytest for test_open_web_page.test_verify_url.test_pagetitle.executor": "Run",
-    "Python tests.pytest for test_open_web_page.test_verify_url.test_pageurl.executor": "Run",
-    "Python tests.pytest for test_open_web_page.test_verify_url.test_role.executor": "Run",
-    "Python tests.pytest in test_playwright_locators.py.executor": "Run",
-    "Python tests.pytest in test_verify_url.py.executor": "Run",
-    "Python.test_verify_url.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "new-project",
-    "junie.onboarding.icon.badge.shown": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.pytest for test_open_web_page.test_playwright_locators.test_pageurl.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_open_web_page.test_playwright_locators.test_role.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_open_web_page.test_verify_url.test_pagetitle.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_open_web_page.test_verify_url.test_pageurl.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_open_web_page.test_verify_url.test_role.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_playwright_locators.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_verify_url.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_verify_url.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new-project&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.pytest in test_playwright_locators.py">
     <configuration name="test_playwright_locators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testcases" />
@@ -175,7 +190,29 @@
       <option name="presentableId" value="Default" />
       <updated>1791608820110</updated>
     </task>
+    <task id="LOCAL-00001" summary="add req">
+      <option name="closed" value="true" />
+      <created>1791867831555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791867831555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add git">
+      <option name="closed" value="true" />
+      <created>1791867979685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791867979685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add req" />
+    <MESSAGE value="add git" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
