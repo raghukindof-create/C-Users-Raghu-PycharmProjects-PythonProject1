@@ -7,3 +7,4 @@ pytest-rerunfailures
 openpyxl
 Faker
 python-slugify
+pytest-playwright
