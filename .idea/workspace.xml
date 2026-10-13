@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61af6383-2862-4f04-81e2-86f80242f0dd" name="Changes" comment="add git">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/playwright.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/playwright.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="61af6383-2862-4f04-81e2-86f80242f0dd" name="Changes" comment="add git 3">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,13 +205,31 @@
       <option name="project" value="LOCAL" />
       <updated>1791867979685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add git 2">
+      <option name="closed" value="true" />
+      <created>1791868276804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791868276804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add git 3">
+      <option name="closed" value="true" />
+      <created>1791868412283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791868412283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add req" />
     <MESSAGE value="add git" />
-    <option name="LAST_COMMIT_MESSAGE" value="add git" />
+    <MESSAGE value="add git 2" />
+    <MESSAGE value="add git 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
